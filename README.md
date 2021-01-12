@@ -16,8 +16,8 @@ apt update
 
 😈 pip install lolcat
 
-😈 git clone https://github.com/lovehacker404/World
+😈 git clone https://github.com/cecep-crip/G4BUT
 
-😈 cd World
+😈 cd G4BUT
 
 👾 python2 Cloning.py

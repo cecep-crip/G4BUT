@@ -1,5 +1,5 @@
 # G4BUT
-Hack
+
 pkg update && pkg upgrade
 pkg install git 
 pip2 install mechanize
